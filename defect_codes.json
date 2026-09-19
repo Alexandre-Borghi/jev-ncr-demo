@@ -1,0 +1,252 @@
+[
+  {
+    "id": "D-001",
+    "title": "Dimensional Out of Specification",
+    "description": "A measured dimension such as length, width, thickness, diameter, height, or depth is outside the specified tolerance."
+  },
+  {
+    "id": "D-002",
+    "title": "Surface Scratch / Abrasion",
+    "description": "The part has an unintended scratch, scuff, gouge, or abrasion on a surface, typically caused by handling, machining, transport, or contact with another part."
+  },
+  {
+    "id": "D-003",
+    "title": "Burr",
+    "description": "An unwanted raised edge or thin piece of material remains after machining, drilling, cutting, milling, or grinding."
+  },
+  {
+    "id": "D-004",
+    "title": "Sharp Edge",
+    "description": "An edge that should be rounded, chamfered, or otherwise safe remains excessively sharp and does not meet the specified edge condition."
+  },
+  {
+    "id": "D-005",
+    "title": "Hole Diameter Out of Specification",
+    "description": "A drilled, bored, or machined hole has a diameter outside its specified tolerance."
+  },
+  {
+    "id": "D-006",
+    "title": "Hole Position Error",
+    "description": "A hole is correctly sized but is located incorrectly relative to the specified datum, pattern, or neighboring features."
+  },
+  {
+    "id": "D-007",
+    "title": "Hole Missing",
+    "description": "A required hole, bore, port, or opening has not been produced or is completely absent."
+  },
+  {
+    "id": "D-008",
+    "title": "Hole Blocked / Obstructed",
+    "description": "A required hole, passage, port, or channel exists but is partially or completely blocked by material, debris, coating, or another obstruction."
+  },
+  {
+    "id": "D-009",
+    "title": "Thread Defect",
+    "description": "An internal or external thread is damaged, incomplete, incorrectly formed, contaminated, or otherwise unable to meet its specified requirements."
+  },
+  {
+    "id": "D-010",
+    "title": "Thread Size / Pitch Incorrect",
+    "description": "The thread exists but has the wrong nominal size, pitch, thread form, or specification."
+  },
+  {
+    "id": "D-011",
+    "title": "Flatness Out of Specification",
+    "description": "A surface deviates from the required flatness tolerance, causing excessive variation across the surface."
+  },
+  {
+    "id": "D-012",
+    "title": "Parallelism Out of Specification",
+    "description": "Two surfaces or features that must be parallel have excessive angular or positional deviation."
+  },
+  {
+    "id": "D-013",
+    "title": "Perpendicularity Out of Specification",
+    "description": "A surface, hole, shaft, or feature is not sufficiently perpendicular to its reference datum or surface."
+  },
+  {
+    "id": "D-014",
+    "title": "Concentricity / Coaxiality Error",
+    "description": "Cylindrical or rotational features that should share a common axis are misaligned or have excessive eccentricity."
+  },
+  {
+    "id": "D-015",
+    "title": "Runout Out of Specification",
+    "description": "A rotating surface or feature exhibits excessive radial or axial runout when measured relative to its specified datum."
+  },
+  {
+    "id": "D-016",
+    "title": "Warped / Distorted Part",
+    "description": "The component has bent, twisted, bowed, warped, or otherwise deformed from its intended geometry."
+  },
+  {
+    "id": "D-017",
+    "title": "Incorrect Material",
+    "description": "The component was manufactured from a material that does not match the specified material grade, type, or composition."
+  },
+  {
+    "id": "D-018",
+    "title": "Material Damage",
+    "description": "The base material has cracks, dents, inclusions, voids, delamination, corrosion, or other physical damage unrelated to a specific machining operation."
+  },
+  {
+    "id": "D-019",
+    "title": "Machining Tool Mark",
+    "description": "Unintended machining marks, chatter, grooves, ridges, or tool-related patterns are present on a machined surface."
+  },
+  {
+    "id": "D-020",
+    "title": "Poor Surface Finish",
+    "description": "The measured or visually observed surface roughness or finish does not meet the specified requirement."
+  },
+  {
+    "id": "D-021",
+    "title": "Incomplete Machining",
+    "description": "A required machining operation was performed only partially, leaving excess material or an unfinished feature."
+  },
+  {
+    "id": "D-022",
+    "title": "Over-Machined Feature",
+    "description": "Too much material was removed during machining, leaving a feature below its required size or otherwise outside specification."
+  },
+  {
+    "id": "D-023",
+    "title": "Wrong Feature Geometry",
+    "description": "A feature such as a slot, pocket, chamfer, radius, contour, or profile has been produced with the wrong shape or geometry."
+  },
+  {
+    "id": "D-024",
+    "title": "Wrong Part / Component",
+    "description": "The wrong component, part number, variant, revision, or model has been selected for the operation or assembly."
+  },
+  {
+    "id": "D-025",
+    "title": "Missing Component",
+    "description": "A component, fastener, insert, seal, washer, connector, or other required item is absent from the assembly."
+  },
+  {
+    "id": "D-026",
+    "title": "Incorrect Component Orientation",
+    "description": "A component is present but installed in the wrong rotational, directional, or physical orientation."
+  },
+  {
+    "id": "D-027",
+    "title": "Incorrect Assembly Position",
+    "description": "A component is installed in the wrong location or position relative to the assembly drawing, fixture, or defined reference."
+  },
+  {
+    "id": "D-028",
+    "title": "Incorrect Fastener",
+    "description": "The installed fastener has the wrong type, size, material, head style, length, or specification."
+  },
+  {
+    "id": "D-029",
+    "title": "Loose Fastener",
+    "description": "A required fastener is installed but does not achieve the specified clamping condition, torque, preload, or retention."
+  },
+  {
+    "id": "D-030",
+    "title": "Over-Torqued Fastener",
+    "description": "A fastener was tightened beyond its specified torque or preload requirement, potentially damaging the fastener, threads, or joined components."
+  },
+  {
+    "id": "D-031",
+    "title": "Under-Torqued Fastener",
+    "description": "A fastener was tightened below its specified torque or preload requirement, resulting in insufficient clamping force."
+  },
+  {
+    "id": "D-032",
+    "title": "Cross-Threaded Fastener",
+    "description": "A threaded fastener was started or installed incorrectly, damaging or misaligning the mating threads."
+  },
+  {
+    "id": "D-033",
+    "title": "Incorrect Adhesive / Sealant",
+    "description": "The wrong adhesive, sealant, bonding agent, or compound was used compared with the specified process requirement."
+  },
+  {
+    "id": "D-034",
+    "title": "Missing / Insufficient Adhesive",
+    "description": "Required adhesive, sealant, lubricant, or bonding compound is absent or applied in an insufficient amount or coverage pattern."
+  },
+  {
+    "id": "D-035",
+    "title": "Excessive Adhesive / Sealant",
+    "description": "Too much adhesive, sealant, lubricant, or bonding compound was applied, creating excess material or interfering with other components."
+  },
+  {
+    "id": "D-036",
+    "title": "Seal / Gasket Defect",
+    "description": "A seal, gasket, O-ring, or sealing element is damaged, incorrectly sized, missing, improperly seated, or otherwise unable to perform its sealing function."
+  },
+  {
+    "id": "D-037",
+    "title": "Contamination",
+    "description": "The part or assembly contains unwanted oil, grease, dust, chips, metal particles, foreign material, moisture, or other contamination."
+  },
+  {
+    "id": "D-038",
+    "title": "Foreign Object / Debris",
+    "description": "An unintended physical object or piece of debris is present inside, on, or around the part or assembly."
+  },
+  {
+    "id": "D-039",
+    "title": "Corrosion / Oxidation",
+    "description": "Unwanted corrosion, rust, oxidation, discoloration, or chemical degradation is visible on the component or assembly."
+  },
+  {
+    "id": "D-040",
+    "title": "Coating / Plating Defect",
+    "description": "A required coating, paint, anodizing, plating, or surface treatment is missing, damaged, uneven, incorrectly applied, or outside specification."
+  },
+  {
+    "id": "D-041",
+    "title": "Paint / Finish Defect",
+    "description": "The cosmetic finish has defects such as runs, drips, bubbles, peeling, incomplete coverage, incorrect color, or visible finish irregularities."
+  },
+  {
+    "id": "D-042",
+    "title": "Weld Defect",
+    "description": "A weld contains an unacceptable condition such as cracking, porosity, undercut, incomplete fusion, excessive spatter, or insufficient penetration."
+  },
+  {
+    "id": "D-043",
+    "title": "Solder / Brazing Defect",
+    "description": "A soldered or brazed joint has inadequate bonding, incomplete coverage, voids, contamination, cracking, or another unacceptable joining condition."
+  },
+  {
+    "id": "D-044",
+    "title": "Electrical Connection Defect",
+    "description": "An electrical connection, terminal, connector, crimp, wire, or contact is loose, damaged, incorrectly connected, or otherwise electrically unreliable."
+  },
+  {
+    "id": "D-045",
+    "title": "Wiring / Routing Error",
+    "description": "Wiring, tubing, hoses, or cables are routed incorrectly, improperly secured, excessively bent, or interfere with other components."
+  },
+  {
+    "id": "D-046",
+    "title": "Functional Failure",
+    "description": "The completed component or assembly does not perform its intended function when operated or tested under the specified conditions."
+  },
+  {
+    "id": "D-047",
+    "title": "Leakage",
+    "description": "A fluid, gas, air, hydraulic, pneumatic, or other pressure-containing system leaks beyond the permitted specification."
+  },
+  {
+    "id": "D-048",
+    "title": "Alignment / Fit Issue",
+    "description": "Two or more components do not align, mate, seat, engage, or fit together as intended, despite individual components potentially meeting their dimensional requirements."
+  },
+  {
+    "id": "D-049",
+    "title": "Damage During Handling / Assembly",
+    "description": "A component or assembly was damaged during handling, installation, transportation, or assembly, including dents, impacts, deformation, or accidental tool marks."
+  },
+  {
+    "id": "D-050",
+    "title": "Incorrect Configuration / Revision",
+    "description": "The product has been built, programmed, configured, or assembled according to an obsolete or incorrect drawing, specification, software version, or product revision."
+  }
+]
